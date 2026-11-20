@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz en Images</string>
+    <string name="titre_quiz">Quiz Formes</string>
+    <string name="format_score">Score : %1$d / %2$d</string>
+    <string name="format_question_numero">Question %1$d sur %2$d</string>
+    <string name="btn_suivant">Question suivante</string>
+    <string name="btn_voir_resultat">Voir le résultat</string>
+    <string name="btn_rejouer">Rejouer</string>
+    <string name="feedback_correct">Bonne réponse ! +1 point</string>
+    <string name="feedback_incorrect">Mauvaise réponse ! La bonne réponse était : %1$s</string>
+    <string name="titre_fin_partie">Fin du quiz !</string>
+    <string name="format_score_final">Votre score final est de %1$d sur %2$d</string>
+</resources>
